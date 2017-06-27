@@ -1,0 +1,9 @@
+TODO
+
+* Limit memory used by objects
+* Use random numbers for the heights of pipes
+* The pipes should not erase city background
+* Get the game loop slots to work
+* Proper key handling, so you can hold the key down and it flies up
+* Generate random town data block on start
+* Randomize colours in town
